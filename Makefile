@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 12
 SUBLEVEL = 9
-EXTRAVERSION =-antilopa
+EXTRAVERSION =-gnu
 NAME = One Giant Leap for Frogkind
 
 # *DOCUMENTATION*
